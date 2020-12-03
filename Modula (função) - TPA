@@ -1,0 +1,17 @@
+02/12/2020
+
+public class Função {
+
+public static int divisão (int num1 , int num2) {
+return (num1 / num2 ) ; 
+}
+public static int múltiplicação (int num1 , int num2) { 
+return (num1 * num2) ;
+}
+public static void main (string[] args ) {
+
+system.out.println(função.divisão(100.10);
+
+system.out.println(função.multiplicação (7, 10));
+}
+}
